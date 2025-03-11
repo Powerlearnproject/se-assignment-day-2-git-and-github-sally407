@@ -2,6 +2,21 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18540979&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+The fundamentals of version control system are to track changes of your file overtime and track code changes .
+Why GitHub is Popular
+Collaboration: GitHub allows multiple developers to work on the same project simultaneously. Features like pull requests and code reviews facilitate collaboration.
+Hosting: It provides a platform to host your repositories online, making them accessible to anyone with the right permissions.
+Version Tracking: GitHub keeps a detailed history of changes, which helps in tracking who made what changes and when.
+Integration: It integrates with many development tools and services, streamlining the development workflow.
+
+How Version Control Maintains Project Integrity
+
+1.History and Backups: You can easily revert to previous versions if something goes wrong.
+2.Change Tracking: Knowing who made what changes helps in accountability and debugging.
+3.Parallel Development: Multiple developers can work on different features or fixes simultaneously without interference.
+4.Conflict Resolution: Identifies and helps resolve conflicts when merging changes.
+5. Auditing: The detailed history can be audited to ensure compliance with coding standards and security practices.
+
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Log in to your GitHub account,Create a New Repository,putRepository Details; Repository Name, provide a brief description of the repository. This helps others understand the purpose of the project,Visibility: Decide if the repository should be public (anyone can see it) or private (only you and people you invite can see it),Initialize Repository:  with a README file, which is a good practice as it provides an overview of the project-You can also add a `.gitignore` file to specify which files or directories should be ignored by Git,Create Repository.
